@@ -1,10 +1,24 @@
-# Reactonaut [![image](https://img.shields.io/badge/Try_Reactonaut-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactonaut.vercel.app/) [![image](https://img.shields.io/badge/presentation_slides-000000?style=for-the-badge&logo=presentation&logoColor=white)](https://storage.googleapis.com/lablab-static-eu/presentations%2Fsubmissions%2Fclhsaiimv006f3v62jjsavz6v%2Fclhsaiimv006f3v62jjsavz6v-1684528887654.pdf) [![image](https://img.shields.io/badge/video-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/7BRjFudUhkk)
+# React Code Visualizer 💻✨
 
-<img src="readme_source/thumbnail.jpg">
+This project is an AI-powered frontend development assistant built with React and OpenAI's ChatGPT API. It allows users to input prompts related to React components or UI design. The application then fetches the code using the ChatGPT API and displays both the generated code and a live preview of the UI.
 
-Reactonaut was created to reduce the "coding language barrier" and allow new front-end developers to easily experiment with new UI designs with the aid of an AI assistant.
+---
 
-Reactonaut also helps developers allocate more time to bigger ideas, such as UI layouts, overall theme, and functionality, rather than spending time struggling over design tasks.
+## 🚀 Features
+
+- 🔮 Prompt-based React code generation using ChatGPT API
+- 🧠 Displays the generated code (JSX, CSS, etc.)
+- 🌐 Renders a live preview of the React component
+- 💡 Easy to use UI for developers and learners
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js (Vite or CRA)
+- OpenAI ChatGPT API
+- Tailwind CSS (for styling)
+- `react-live` or `react-preview` for live code rendering
 
 ## Demo
 
